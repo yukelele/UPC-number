@@ -1,6 +1,9 @@
+#from flask import Flask, render_template
 import requests 
 import json
 from pprint import pprint
+
+#app = Flask(__name__)
 
 # Get Json Data from the URL link
 def get_json_data(url):
@@ -54,3 +57,7 @@ pprint(dic_of_UPC_and_data)
 print('\n')
 
 
+
+
+#if __name__ == "__main__":
+ #   app.run(debug=True)
