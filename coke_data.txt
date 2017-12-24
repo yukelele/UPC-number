@@ -1,0 +1,396 @@
+{
+    "code": "4890008100309",
+    "product": {
+        "_id": "4890008100309",
+        "_keywords": [
+            "cola",
+            "coca",
+            "coke"
+        ],
+        "additives_debug_tags": [],
+        "additives_old_tags": [],
+        "additives_original_tags": [],
+        "additives_prev_original_tags": [],
+        "additives_prev_tags": [],
+        "additives_tags": [],
+        "allergens": "",
+        "allergens_hierarchy": [],
+        "allergens_tags": [],
+        "brands": "Coca Cola",
+        "brands_tags": [
+            "coca-cola"
+        ],
+        "categories": "Colas",
+        "categories_debug_tags": [],
+        "categories_hierarchy": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:sodas",
+            "en:colas",
+            "en:sugared-beverages"
+        ],
+        "categories_prev_hierarchy": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:sodas",
+            "en:colas"
+        ],
+        "categories_prev_tags": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:sodas",
+            "en:colas"
+        ],
+        "categories_tags": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:sodas",
+            "en:colas",
+            "en:sugared-beverages"
+        ],
+        "checkers_tags": [],
+        "cities_tags": [],
+        "code": "4890008100309",
+        "codes_tags": [
+            "code-13",
+            "4890008100309",
+            "489000810030x",
+            "48900081003xx",
+            "4890008100xxx",
+            "489000810xxxx",
+            "48900081xxxxx",
+            "4890008xxxxxx",
+            "489000xxxxxxx",
+            "48900xxxxxxxx",
+            "4890xxxxxxxxx",
+            "489xxxxxxxxxx",
+            "48xxxxxxxxxxx",
+            "4xxxxxxxxxxxx"
+        ],
+        "complete": 0,
+        "correctors_tags": [
+            "momowong",
+            "tacite"
+        ],
+        "countries": "Hong Kong",
+        "countries_hierarchy": [
+            "en:hong-kong"
+        ],
+        "countries_tags": [
+            "en:hong-kong"
+        ],
+        "created_t": 1451464186,
+        "creator": "momowong",
+        "editors_tags": [
+            "momowong",
+            "tacite"
+        ],
+        "emb_codes": "",
+        "emb_codes_20141016": "",
+        "emb_codes_orig": "",
+        "emb_codes_tags": [],
+        "entry_dates_tags": [
+            "2015-12-30",
+            "2015-12",
+            "2015"
+        ],
+        "expiration_date": "",
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "generic_name": "",
+        "generic_name_en": "",
+        "id": "2000000025722",
+        "image_front_small_url": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.200.jpg",
+        "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.100.jpg",
+        "image_front_url": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.400.jpg",
+        "image_small_url": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.200.jpg",
+        "image_thumb_url": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.100.jpg",
+        "image_url": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.400.jpg",
+        "images": {
+            "1": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "full": {
+                        "h": 5376,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": "1451464260",
+                "uploader": "momowong"
+            },
+            "front": {
+                "geometry": "0x0-0-0",
+                "imgid": "1",
+                "normalize": "true",
+                "rev": "4",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 113
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "full": {
+                        "h": 5376,
+                        "w": 3024
+                    }
+                },
+                "white_magic": "false"
+            },
+            "front_en": {
+                "geometry": "0x0-0-0",
+                "imgid": "1",
+                "normalize": "true",
+                "rev": "4",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 113
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "full": {
+                        "h": 5376,
+                        "w": 3024
+                    }
+                },
+                "white_magic": "false"
+            }
+        },
+        "informers_tags": [
+            "momowong",
+            "tacite"
+        ],
+        "ingredients": [],
+        "ingredients_debug": [],
+        "ingredients_from_palm_oil_tags": [],
+        "ingredients_ids_debug": [],
+        "ingredients_tags": [],
+        "ingredients_text": "",
+        "ingredients_text_debug": "",
+        "ingredients_text_en": "",
+        "ingredients_text_with_allergens": "",
+        "ingredients_text_with_allergens_en": "",
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "interface_version_created": "20120622",
+        "interface_version_modified": "20120622",
+        "labels": "",
+        "labels_debug_tags": [],
+        "labels_hierarchy": [],
+        "labels_prev_hierarchy": [],
+        "labels_prev_tags": [],
+        "labels_tags": [],
+        "lang": "en",
+        "languages": {
+            "en:english": 2
+        },
+        "languages_codes": {
+            "en": 2
+        },
+        "languages_hierarchy": [
+            "en:english"
+        ],
+        "languages_tags": [
+            "en:english",
+            "en:1"
+        ],
+        "last_edit_dates_tags": [
+            "2015-12-30",
+            "2015-12",
+            "2015"
+        ],
+        "last_editor": "tacite",
+        "last_image_dates_tags": [
+            "2015-12-30",
+            "2015-12",
+            "2015"
+        ],
+        "last_image_t": 1451464262,
+        "last_modified_by": "tacite",
+        "last_modified_t": 1451465149,
+        "lc": "en",
+        "link": "",
+        "manufacturing_places": "",
+        "manufacturing_places_tags": [],
+        "max_imgid": "1",
+        "misc_tags": [
+            "en:nutrition-no-fruits-vegetables-nuts",
+            "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+            "en:nutriscore-computed"
+        ],
+        "no_nutrition_data": null,
+        "nutrient_levels": {
+            "fat": "low",
+            "salt": "low",
+            "saturated-fat": "low",
+            "sugars": "high"
+        },
+        "nutrient_levels_tags": [
+            "en:fat-in-low-quantity",
+            "en:saturated-fat-in-low-quantity",
+            "en:sugars-in-high-quantity",
+            "en:salt-in-low-quantity"
+        ],
+        "nutriments": {
+            "carbohydrates": "10.6",
+            "carbohydrates_100g": "10.6",
+            "carbohydrates_serving": "",
+            "carbohydrates_unit": "g",
+            "carbohydrates_value": "10.6",
+            "energy": "176",
+            "energy_100g": "176",
+            "energy_serving": "",
+            "energy_unit": "kcal",
+            "energy_value": "42",
+            "fat": "0",
+            "fat_100g": "0",
+            "fat_serving": "",
+            "fat_unit": "g",
+            "fat_value": "0",
+            "fiber": "0",
+            "fiber_100g": "0",
+            "fiber_serving": "",
+            "fiber_unit": "g",
+            "fiber_value": "0",
+            "nutrition-score-fr": 14,
+            "nutrition-score-fr_100g": 14,
+            "nutrition-score-uk": 2,
+            "nutrition-score-uk_100g": 2,
+            "proteins": "0",
+            "proteins_100g": "0",
+            "proteins_serving": "",
+            "proteins_unit": "g",
+            "proteins_value": "0",
+            "salt": "0.01016",
+            "salt_100g": "0.01016",
+            "salt_serving": "",
+            "salt_unit": "mg",
+            "salt_value": "10.16",
+            "saturated-fat": "0",
+            "saturated-fat_100g": "0",
+            "saturated-fat_serving": "",
+            "saturated-fat_unit": "g",
+            "saturated-fat_value": "0",
+            "sodium": "0.004",
+            "sodium_100g": "0.004",
+            "sodium_serving": "",
+            "sodium_unit": "mg",
+            "sodium_value": "4",
+            "sugars": "10.6",
+            "sugars_100g": "10.6",
+            "sugars_serving": "",
+            "sugars_unit": "g",
+            "sugars_value": "10.6"
+        },
+        "nutrition_data_per": "100g",
+        "nutrition_grade_fr": "e",
+        "nutrition_grades": "e",
+        "nutrition_grades_tags": [
+            "e"
+        ],
+        "nutrition_score_debug": " -- in beverages category - a_points_fr_beverage: 6 (energy) + 0 (sat_fat) + 8 (sugars) + 0 (sodium) = 14 -  -- energy 0 + sat-fat 0 + fr-sat-fat-for-fats 0 + sugars 2 + sodium 0 - fruits 0% 0 - fiber 0 - proteins 0 -- fsa 2 -- fr 14",
+        "nutrition_score_warning_no_fruits_vegetables_nuts": 1,
+        "origins": "",
+        "origins_tags": [],
+        "packaging": "Canned",
+        "packaging_tags": [
+            "canned"
+        ],
+        "photographers_tags": [
+            "momowong"
+        ],
+        "pnns_groups_1": "Beverages",
+        "pnns_groups_1_tags": [
+            "beverages"
+        ],
+        "pnns_groups_2": "Sweetened beverages",
+        "pnns_groups_2_tags": [
+            "sweetened-beverages"
+        ],
+        "product_name": "Coca Cola Coke",
+        "product_name_en": "Coca Cola Coke",
+        "purchase_places": "Hong Kong",
+        "purchase_places_tags": [
+            "hong-kong"
+        ],
+        "quality_tags": [],
+        "quantity": "330ml",
+        "rev": 6,
+        "scans_n": 2,
+        "selected_images": {
+            "front": {
+                "display": {
+                    "en": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.400.jpg"
+                },
+                "small": {
+                    "en": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.200.jpg"
+                },
+                "thumb": {
+                    "en": "https://static.openfoodfacts.org/images/products/489/000/810/0309/front_en.4.100.jpg"
+                }
+            }
+        },
+        "serving_quantity": 0,
+        "serving_size": "",
+        "sortkey": 451465149,
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:characteristics-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "stores": "Supermarket",
+        "stores_tags": [
+            "supermarket"
+        ],
+        "traces": "",
+        "traces_hierarchy": [],
+        "traces_tags": [],
+        "unique_scans_n": 1,
+        "unknown_nutrients_tags": [],
+        "update_key": "nutriscore-20171111"
+    },
+    "status": 1,
+    "status_verbose": "product found"
+}
